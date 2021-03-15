@@ -9,6 +9,8 @@
   Linkedin : www.linkedin.com/in/deepak-kaura-66a903162
   
   Kaggle : https://www.kaggle.com/deepakkaura
+  
+  Email : deepakkumarkaura@yahoo.com
 <!---
 deepak7642/deepak7642 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
