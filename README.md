@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deepak Kaura (DK)
+- 👋 Hi, I’m Deepak Kaura (DK) , Github name : @deepak7642
 - 👀 I’m interested in making and exploring projects related to Data Science, Data Visualization, EDA , ML , etc with the help of python tools 
 - 🌱 I’m currently improving my skills 
 - 💞️ I’m looking to collaborate/ Searching for jobs or internships 
