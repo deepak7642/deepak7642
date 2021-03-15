@@ -11,6 +11,8 @@
   Kaggle : https://www.kaggle.com/deepakkaura
   
   Email : deepakkumarkaura@yahoo.com
+  
+  #### Follow me for fascinating projects more I will upload simultaneously and feedbecks are always welcome it will help me to improve 
 <!---
 deepak7642/deepak7642 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
