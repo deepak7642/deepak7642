@@ -14,7 +14,7 @@
   
   Email : deepakkumarkaura@yahoo.com
   
-  #### Follow me for fascinating projects and more I will upload simultaneously and feedbacks are always welcome it will help me to improve !!!!!
+  #### Follow me for fascinating projects and more I will upload simultaneously and your feedbacks are always welcome it will help me to improve !!!!!
 <!---
 deepak7642/deepak7642 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
