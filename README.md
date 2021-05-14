@@ -2,7 +2,7 @@
 - 👀 I’m interested in making and exploring projects related to Data Science, Data Visualization, EDA , ML , etc with the help of python tools 
 - 🌱 I’m currently improving my skills and side by side making own projects 
 - 💻 Tools known with : Numpy, Matplotlip, Pandas, Sckit-learn, jupyter, slowly slowly learning more
-- 💞️ I’m looking to collaborate/ Searching for jobs or internships
+- 💞️ I’m looking to collaborate/ Searching for jobs or internships related to Data Science & ML
 - 🎊 Experience : The Sparks Foundation (1 month internship)
 - 📫 How to reach me " below links will help you " :
 
