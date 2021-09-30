@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Deepak Kaura (DK) ,  Github name : @deepak7642
-- 👀 I’m interested in making and exploring projects related to Data Analysis, Data Visualization, Data Exploration, Machine Learning, etc with the help of python tools 
+- 👋 Hey...There, Myself Deepak Kaura (DK) newbie in the field of Data Science and also want to explore in Data Science to get exposure.  
+- 👀 I’m interested in making and exploring projects related to Data Analysis, Data Exploration and Visualization, Machine Learning, etc with the help of python tools 
 - 🌱 I’m currently improving my skills and side by side making own projects 
-- 💻 Tools known with : Numpy, Matplotlip, Pandas, Sckit-learn, jupyter, slowly slowly learning more
-- 💞️ I’m looking to collaborate/ Searching for jobs or internships related to Data Science & ML
-- 🎊 Experience : The Sparks Foundation (1 month internship)
+- 💻 Tools known with : Numpy, Matplotlip, Pandas, Sckit-learn, slowly slowly learning more......
+- 💞️ I’m also looking for Jobs/Internships related to Data Science & ML
+- 🎊 Experience : The Sparks Foundation (one-month internship)
 - 📫 How to reach me " below links will help you " :
 
   Youtube channel : https://www.youtube.com/channel/UCgIenOB7b3aEuo4e6Nv8BZQ
