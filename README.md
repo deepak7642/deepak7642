@@ -1,8 +1,8 @@
-- 👋 Hey...There, Myself Deepak Kaura (DK) newbie in the field of Data Science and also want to explore in Data Science to get exposure.  
-- 👀 I’m interested in making and exploring projects related to Data Analysis, Data Exploration and Visualization, Machine Learning, etc with the help of python tools 
-- 🌱 I’m currently improving my skills and side by side making own projects 
+- 👋 Hey...There, Myself Deepak Kaura (DK) newbie in the field of Data Science and also want to explore in Data Science field to get exposure.  
+- 👀 Currently pursuing "Integrated Program of Business Anaytics" to improve my skills.....   
+- 🌱 My Skills : Python, R programming, Data Analytics, Data Exploration and Visualization, Machine learning, more to come...... 
 - 💻 Tools known with : Numpy, Matplotlip, Pandas, Sckit-learn, slowly slowly learning more......
-- 💞️ I’m also looking for Jobs/Internships related to Data Science & ML
+- 💞️ I’m also looking for Jobs/Internships related to Data Science & ML.
 - 🎊 Experience : The Sparks Foundation (one-month internship)
 - 📫 How to reach me " below links will help you " :
 
