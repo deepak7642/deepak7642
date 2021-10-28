@@ -15,6 +15,10 @@
   Email : deepakkumarkaura@yahoo.com
   
   #### Follow me for fascinating projects, Do ⭐ the repository, if it helped you in anyway and your feedbacks are always welcome it will help me to improve !!!!!
+  
+  
+  [![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak7642)](https://github.com/deepak7642/github-readme-stats)
+
 <!---
 deepak7642/deepak7642 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
