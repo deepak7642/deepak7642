@@ -12,7 +12,7 @@
   
   Kaggle : https://www.kaggle.com/deepakkaura
   
-  Email : deepakkumarkaura@yahoo.com
+  Email : kauradeepak26@gmail.com
   
   #### Follow me for fascinating projects, Do ⭐ the repository, if it helped you in anyway and your feedbacks are always welcome it will help me to improve !!!!!
   
