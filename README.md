@@ -1,9 +1,9 @@
-- 👋 Hey.... there, I am ML Enthusiast. Also want to explore more in the Data Science field to get more exposure.  
+- 👋 Hey.... there, I am Data Science Enthusiast and also want to explore more in the Data Science field to get more exposure.  
 - 👀 Currently pursuing "Integrated Program of Business Analytics" to enhance my skills as well as gain new skills also..   
 - 🌱 My Skills : Python, R programming (new skill added), Data Analysis, Data Exploration and Visualization, Machine Learning, more to come...... 
 - 💻 Tools known with : Numpy, Matplotlip, Pandas, Sckit-learn, learning more......
 - 💞️ I’m also looking for Jobs/Internships related to Data Analyst, Data Scientist and Machine Learning.
-- 🎊 Experience : The Sparks Foundation (one-month internship)
+- 🎊 Experience : The Sparks Foundation (one-month internship) and Currently working in A2J Tech (past 3 months).
 - 📫 How to reach me " below links will help you " :
 
   Youtube channel : https://www.youtube.com/channel/UCgIenOB7b3aEuo4e6Nv8BZQ
