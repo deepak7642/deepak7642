@@ -1,10 +1,10 @@
-- 👋 Hey.... there, I am Data Science Enthusiast and also want to explore more in the Data Science field to get more exposure.  
-- 👀 Currently pursuing "Integrated Program of Business Analytics" to enhance my skills as well as gain new skills also..   
-- 🌱 My Skills : Python, R programming (new skill added), Data Analysis, Data Exploration and Visualization, Machine Learning, more to come...... 
-- 💻 Tools known with : Numpy, Matplotlip, Pandas, Sckit-learn, learning more......
+- 👋 Hey.... there, I am an enthusiast of Data Science with 4 months of experience seeking more exposure to make use of my past and present knowledge.  
+- 👀 Currently pursuing "Integrated Program of Business Analytics" to enhance my skills.   
+- 🌱 My Skills : Data Cleaning, Feature Engineering, Data Exploration and Visualization, Machine Learning and Predictive Modeling.
+- 💻 Tools known with : MS Excel, Kaggle, Jupyter Notebook, Google Colab, Python, Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn and SQL (Basics).
 - 💞️ I’m also looking for Jobs/Internships related to Data Analyst, Data Scientist and Machine Learning.
-- 🎊 Experience : The Sparks Foundation (one-month internship) and Currently working in A2J Tech (past 3 months).
-- 📫 How to reach me " below links will help you " :
+- 🎊 Experience : The Sparks Foundation (one-month internship) and A2J Tech - Solvendo (3 months internship).
+- 📫 How to reach me " below links will help you 👇🏻" :
 
   Youtube channel : https://www.youtube.com/channel/UCgIenOB7b3aEuo4e6Nv8BZQ
   
@@ -14,7 +14,7 @@
   
   Email : kauradeepak26@gmail.com
   
-  #### Follow me for fascinating projects, Do ⭐ the repository, if it helped you in anyway and your feedbacks are always welcome it will help me to improve !!!!!
+  #### Follow me for fascinating projects, Do ⭐ the repository, if it helped you in anyway and your feedbacks are always welcome !!!!!
   
   
   [![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak7642)](https://github.com/deepak7642/github-readme-stats)
