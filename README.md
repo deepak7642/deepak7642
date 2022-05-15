@@ -1,6 +1,6 @@
-- 👋 Hey.... there, I am an enthusiast of Data Science with 4 months of experience seeking more exposure to make use of my past and present knowledge.  
+- 👋 Hey.... there, I am an enthusiast of Data Science with 4 months of experience and seeking more exposure to make use of my past and present knowledge.  
 - 👀 Completed "Integrated Program of Business Analytics" to enhance my skills from IIM Indore collab with Jigsaw Academy.   
-- 🌱 My Skills : Data Cleaning, Feature Engineering, Data Exploration and Visualization, Machine Learning and Predictive Modeling.
+- 🌱 My Skills (Python) : Data Cleaning, Feature Engineering, Data Exploration and Visualization, Machine Learning and Predictive Modeling.
 - 💻 Tools known with : MS Excel, Kaggle, Jupyter Notebook, Google Colab, Python, Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn and SQL (Basics).
 - 💞️ I’m also looking for Jobs/Internships related to Data Analyst, Data Scientist and Machine Learning.
 - 🎊 Experience : The Sparks Foundation (one-month internship) and A2J Tech. (3 months internship).
