@@ -3,7 +3,7 @@
 - 🌱 My Skills (Python) : Data Cleaning, Feature Engineering, Data Exploration and Visualization, Machine Learning and Predictive Modeling.
 - 💻 Tools known with : MS Excel, Kaggle, Jupyter Notebook, Google Colab, Python, Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn and SQL (Basics).
 - 💞️ I’m also looking for Jobs/Internships related to Data Analyst, Data Scientist and Machine Learning.
-- 🎊 Experience : The Sparks Foundation (one-month internship) and A2J Tech. (3 months internship).
+- 🎊 Experience : The Sparks Foundation (one-month internship), A2J Tech. (3-months internship) and ResoluteAI (3-months internship).
 - 📫 How to reach me " below links will help you 👇🏻" :
 
   Youtube channel : https://www.youtube.com/channel/UCgIenOB7b3aEuo4e6Nv8BZQ
