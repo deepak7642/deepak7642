@@ -1,4 +1,4 @@
-- 👋 Hey.... there, I am an enthusiast of Data Science with 9 months of experience and seeking more exposure to make use of my past and present knowledge.  
+- 👋 Hey.... there, I am an enthusiast of Data Science with 1 year of experience and seeking more exposure to make use of my past and present knowledge.  
 - 👀 Completed "Integrated Program of Business Analytics" to enhance my skills from IIM Indore collab with Jigsaw Academy.   
 - 🌱 My Skills (Python) : Data Cleaning, Feature Engineering, Data Exploration and Visualization, Machine Learning and Predictive Analytics, and Deployment.
 - 💻 Tools and IDEs used : MS Excel, Kaggle, Jupyter Notebook, Google Colab, Python, Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, Plotly (lib), and Streamlit.
