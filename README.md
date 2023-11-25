@@ -51,21 +51,26 @@ Data Science Enthusiast with 1+ years of hands-on experience 🌐
 ## **Education**
 
 - **MBA in Financial Planning**
-  - *International College Of Financial Planning, Mysore University*
-  - *2017 – 2019 | ITO, New Delhi*
+  
+  *International College Of Financial Planning, Mysore University*
+  
+  *2017 – 2019 | ITO, New Delhi*
   - *Specialization: Financial Planning*
   - *CGPA: 7.719*
 
 ## **Certifications**
 
 - **Advanced Certification in Applied Data Science, Machine Learning & IoT**
-  - *E&ICT Academy, IIT Guwahati*
+  
+  *E&ICT Academy, IIT Guwahati*
   - *10-month program covering advanced levels in Applied Data Science, Machine Learning, and IoT*
   - *Overall Score %: 89*
 
 - **Integrated Program in Business Analytics (IPBA)**
-  - *IIM Indore with Jigsaw Academy*
-  - *Mar, 21 - Jan, 22*
+ 
+  *IIM Indore with Jigsaw Academy*
+  
+  *Mar, 21 - Jan, 22*
   - *10-month program covering technical and business aspects of the application of Analytics & Data Science*
   - *Overall Score %: 81.25*
 
@@ -119,18 +124,20 @@ Develop a Potential Spammers prediction model using Sklearn. Experiment with div
   (Feb 2021)
   - *"I STAND FOR GENDER EQUALITY." Participated in the Gender Equality pledge for the occasion of Woman's Day organized by The Sparks Foundation.*
 
+## Contact Information
 
-- 💞️ I’m also looking for Jobs/Internships related to Data Analyst, Data Scientist and Machine Learning.
+* **Youtube Channel:** [Deepak Kaura's Data Science Journey 🎥](https://www.youtube.com/channel/UCgIenOB7b3aEuo4e6Nv8BZQ)
 
-- 📫 How to reach me " below links will help you 👇🏻" :
+* **LinkedIn:** [Deepak Kaura 🔗](www.linkedin.com/in/deepak-kaura-66a903162)
 
-  Youtube channel : https://www.youtube.com/channel/UCgIenOB7b3aEuo4e6Nv8BZQ
-  
-  Linkedin : www.linkedin.com/in/deepak-kaura-66a903162
-  
-  Kaggle : https://www.kaggle.com/deepakkaura
-  
-  Email : kauradeepak26@gmail.com
+* **Kaggle:** [Deepak Kaura on Kaggle 📊](https://www.kaggle.com/deepakkaura)
+
+* **Email:** kauradeepak26@gmail.com 📧
+
+## Job Search Status
+Actively seeking opportunities in Data Analyst, Data Scientist, and Machine Learning roles. Open to collaboration if organizations/individual believe that my knowledge and work experience can contribute to their projects and goals. 🤝💼
+
+
   
   #### Follow me for fascinating projects, Do ⭐ the repository, if it helped you in anyway and your feedbacks are always welcome !!!!!
   
