@@ -6,6 +6,64 @@ Data Science Enthusiast with 1+ years of hands-on experience 🌐
 ## Goals
 * **Objective:** Contribute effectively to organizations leveraging existing skills and knowledge 💼🤝
 
+## **Skills**
+
+- **IDE**: Google Colab 💻
+- **Programming Language**: Python 🐍
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn 📊🔮
+- **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Random Forest 📈🌲
+- **Deployment (Framework)**: Streamlit 🚀
+- **Soft Skills**: Team Player, Curious, Collaborative, Communicative, Keen learner 🤝💬📚
+
+## **Additional Learnings**
+
+- **Time Series Analysis (ARIMA)**
+- **Tableau**
+- **MS SQL**
+
+## **Internships-Specific Skills:**
+
+### **Rework AI - ML Engineer & ML Team Lead**
+- Python
+- Google Colab
+- Open-Source GPT/LLM models
+- Natural Language Processing (NLP)
+- Streamlit
+
+### **Resolute.AI - Data Analyst Engineer**
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Logistic Regression
+- Random Forest
+- XGBoost
+- Streamlit
+
+### **A2J Technology Solvendo - Machine Learning Intern**
+- Python
+- Google Colab
+- Matplotlib
+- Logistic Regression
+- Random Forest
+- Decision Tree
+- Long Short-Term Memory (LSTM)
+
+### **The Sparks Foundation - Data Science & Business Analytics Intern**
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Linear Regression
+- Decision Tree
+- K Means
+- Random Forest Regression
 
 ## **Experience**
 
@@ -74,20 +132,6 @@ Data Science Enthusiast with 1+ years of hands-on experience 🌐
   - *10-month program covering technical and business aspects of the application of Analytics & Data Science*
   - *Overall Score %: 81.25*
 
-## **Skills**
-
-- **IDE**: Google Colab 💻
-- **Programming Language**: Python 🐍
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn 📊🔮
-- **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Random Forest 📈🌲
-- **Deployment (Framework)**: Streamlit 🚀
-- **Soft Skills**: Team Player, Curious, Collaborative, Communicative, Keen learner 🤝💬📚
-
-## **Additional Learnings**
-
-- **Time Series Analysis (ARIMA)**
-- **Tableau**
-- **MS SQL**
 
 ### **Project: Fiverr End-to-End Project**
 
