@@ -132,6 +132,7 @@ Data Science Enthusiast with 1+ years of hands-on experience 🌐
   - *10-month program covering technical and business aspects of the application of Analytics & Data Science*
   - *Overall Score %: 81.25*
 
+## Real World based Projects
 
 ### **Project: Fiverr End-to-End Project**
 
@@ -151,7 +152,7 @@ Develop a Potential Spammers prediction model using Sklearn. Experiment with div
 
 #### For more projects exploration kindly check here [Projects list](https://github.com/deepak7642/Unique-and-Real-World-based-Projects)
 
-### **Awards and Recognitions**
+## **Awards and Recognitions**
 
 - **LLM Streamlit Hackathon - Top 250 Entry**
   (Sep 2023)
