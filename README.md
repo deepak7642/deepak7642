@@ -4,7 +4,7 @@
 Data Science Enthusiast with 1+ years of hands-on experience 🌐
 
 ## Goals
-* **Objective:** Contribute effectively to organizations leveraging existing skills and knowledge 💼🤝
+* **Objective:** Contribute effectively to organizations leveraging existing skills and knowledge, also assest to be 💼🤝
 
 ## **Skills**
 
@@ -21,49 +21,19 @@ Data Science Enthusiast with 1+ years of hands-on experience 🌐
 - **Tableau**
 - **MS SQL**
 
-## **Internships-Specific Skills:**
+## **Gained Skills from Internships:**
 
-### **Rework AI - ML Engineer & ML Team Lead**
-- Python
-- Google Colab
-- Open-Source GPT/LLM models
-- Natural Language Processing (NLP)
-- Streamlit
+### **Rework AI -**
+Open-Source GPT/LLM models and Natural Language Processing (NLP)
 
-### **Resolute.AI - Data Analyst Engineer**
-- Python
-- Google Colab
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-- Logistic Regression
-- Random Forest
-- XGBoost
-- Streamlit
+### **Resolute.AI -**
+Plotly, XGBoost and Streamlit
 
-### **A2J Technology Solvendo - Machine Learning Intern**
-- Python
-- Google Colab
-- Matplotlib
-- Logistic Regression
-- Random Forest
-- Decision Tree
-- Long Short-Term Memory (LSTM)
+### **A2J Technology Solvendo -**
+Logistic Regression, Random Forest and Long Short-Term Memory (LSTM)
 
-### **The Sparks Foundation - Data Science & Business Analytics Intern**
-- Python
-- Google Colab
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-- Linear Regression
-- Decision Tree
-- K Means
-- Random Forest Regression
+### **The Sparks Foundation -**
+Python, Google Colab, Pandas, NumPy, Matplotlib, Seaborn, Linear Regression, Decision Tree, K Means and Random Forest Regression
 
 ## **Experience**
 
