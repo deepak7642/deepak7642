@@ -149,6 +149,7 @@ Develop a Potential Spammers prediction model using Sklearn. Experiment with div
 
 **Solution Link:** [Link to Solution](https://www.kaggle.com/code/deepakkaura/fiverr-end-to-end-project-includes-deployment)
 
+#### For more projects exploration kindly check here [Projects list](https://github.com/deepak7642/Unique-and-Real-World-based-Projects)
 
 ### **Awards and Recognitions**
 
@@ -181,7 +182,7 @@ Develop a Potential Spammers prediction model using Sklearn. Experiment with div
 ## Job Search Status
 Actively seeking opportunities in Data Analyst, Data Scientist, and Machine Learning roles. Open to collaboration if organizations/individual believe that my knowledge and work experience can contribute to their projects and goals. 🤝💼
 
-
+---
   
   #### Follow me for fascinating projects, Do ⭐ the repository, if it helped you in anyway and your feedbacks are always welcome !!!!!
   
