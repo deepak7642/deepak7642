@@ -104,7 +104,7 @@ Python, Google Colab, Pandas, NumPy, Matplotlib, Seaborn, Linear Regression, Dec
 
 ## Real World based Projects
 
-### **Project: Fiverr End-to-End Project**
+### **Fiverr: End-to-End Project with Deployment**
 
 **Problem Statement:**
 Recently, attackers are using freelance job sites such as Fiverr to distribute malware disguised as job offers. Fiverr initiated a Kaggle competition to understand how data science professionals would solve this problem using various methods and techniques.
