@@ -41,40 +41,21 @@ Python, Google Colab, Pandas, NumPy, Matplotlib, Seaborn, Linear Regression, Dec
 
 *Mar 2023 – Sep 2023 | Work From Home Internship*
 
-**Work Highlights:**
-- Led design and development of automated features.
-- Integrated open-source GPT/LLM models for job description generation.
-- Managed the development of advanced NLP algorithms for resume matching.
-- Led deployment of projects using Streamlit.
 
 ### **Data Analyst Engineer | Resolute.AI**
 
 *Apr 2022 – Jul 2022 | Work From Home Internship*
 
-**Work Highlights:**
-- Led predictive analytics model development for diverse industry use cases.
-- Independently learned and implemented Streamlit for UI development.
-- Deployed exploratory data analysis using Altair and Plotly.
-- Presented varied use case studies to senior management and the Co-Founder.
 
 ### **Machine Learning Intern | A2J Technology - Solvendo**
 
 *Oct 2021 – Jan 2022 | Work From Home Internship*
 
-**Work Highlights:**
-- Optimized cashflow prediction using LSTM with hyper-tuning.
-- Explored diverse algorithms with a focus on effective data cleaning.
-- Individually responsible for data cleaning and LSTM-based cashflow prediction.
-- Implemented machine learning algorithms (Logistic Regression, Random Forest, Decision Tree).
 
 ### **Data Science & Business Analytics Intern | The Sparks Foundation**
 
 *Jan 2021 – Feb 2021 | Work From Home Internship*
 
-**Work Highlights:**
-- Demonstrated proficiency in diverse tasks, including predictive modeling and exploratory data analysis.
-- Successfully completed all eight tasks individually.
-- Created demonstrations recording & shared them on YouTube.
 
 ## **Education**
 
