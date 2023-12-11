@@ -23,36 +23,34 @@ Data Science Enthusiast with 1+ years of hands-on experience 🌐
 
 ## **Gained Skills from Internships:**
 
-### **Rework AI -**
-Open-Source GPT/LLM models and Natural Language Processing (NLP)
+**Rework AI -** Open-Source GPT/LLM models and Natural Language Processing (NLP)
 
-### **Resolute.AI -**
-Plotly, XGBoost and Streamlit
+ **Resolute.AI -** Plotly, XGBoost and Streamlit
 
-### **A2J Technology Solvendo -**
+ **A2J Technology Solvendo -**
 Logistic Regression, Random Forest and Long Short-Term Memory (LSTM)
 
-### **The Sparks Foundation -**
+ **The Sparks Foundation -**
 Python, Google Colab, Pandas, NumPy, Matplotlib, Seaborn, Linear Regression, Decision Tree, K Means and Random Forest Regression
 
 ## **Experience**
 
-### **ML Engineer & ML Team Lead | Rework AI**
+#### **ML Engineer & ML Team Lead | Rework AI**
 
 *Mar 2023 – Sep 2023 | Work From Home Internship*
 
 
-### **Data Analyst Engineer | Resolute.AI**
+#### **Data Analyst Engineer | Resolute.AI**
 
 *Apr 2022 – Jul 2022 | Work From Home Internship*
 
 
-### **Machine Learning Intern | A2J Technology - Solvendo**
+#### **Machine Learning Intern | A2J Technology - Solvendo**
 
 *Oct 2021 – Jan 2022 | Work From Home Internship*
 
 
-### **Data Science & Business Analytics Intern | The Sparks Foundation**
+#### **Data Science & Business Analytics Intern | The Sparks Foundation**
 
 *Jan 2021 – Feb 2021 | Work From Home Internship*
 
