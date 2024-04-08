@@ -1,7 +1,7 @@
   # <h1 align="center"> Data Science Report Card 📊🔍</h1>
 
 ## Summary
-Data Science Enthusiast with 1+ years of hands-on experience 🌐
+Data Science Enthusiast with 1.3 years of hands-on experience 🌐
 
 ## Goals
 * **Objective:** Contribute effectively to organizations leveraging existing skills and knowledge, also assest to be 💼🤝
@@ -11,7 +11,7 @@ Data Science Enthusiast with 1+ years of hands-on experience 🌐
 - **IDE**: Google Colab 💻
 - **Programming Language**: Python 🐍
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn 📊🔮
-- **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, KNN and XGBoost 📈🌲
+- **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost and PyCaret 📈🌲
 - **Deployment (Framework)**: Streamlit 🚀
 - **Soft Skills**: Team Player, Curious, Collaborative, Communicative, Keen learner 🤝💬📚
 
