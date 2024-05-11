@@ -21,28 +21,26 @@ Data Science Enthusiast with 1.3 years of hands-on experience 🌐
 - **Tableau**
 - **MS SQL**
 
-## **Gained Skills from Internships:**
-
-**Rework AI -** Open-Source GPT/LLM models and Natural Language Processing (NLP)
-
- **Resolute.AI -** Plotly, XGBoost and Streamlit
-
- **A2J Technology Solvendo -**
-Logistic Regression, Random Forest and Long Short-Term Memory (LSTM)
-
- **The Sparks Foundation -**
-Python, Google Colab, Pandas, NumPy, Matplotlib, Seaborn, Linear Regression, Decision Tree, K Means and Random Forest Regression
 
 ## **Experience**
+
+#### **AI/ML Developer | Farmoid Robotech Pvt Ltd**
+
+*Apr 2024 – Present | Work From Home Internship with Job*
+
+* Work :- I'm contributing towards their developing predictive models critical for enhancing agricultural decision-making. My role involves not only technical model development but also the strategic application of these models in revenue-generating projects, underscoring my ability to contribute directly to business outcomes. Additionally, I actively participate in candidate evaluations, enhancing the interview and selection processes by leveraging industry knowledge and technical expertise.
 
 #### **ML Engineer & ML Team Lead | Rework AI**
 
 *Mar 2023 – Sep 2023 | Work From Home Internship*
 
+* Work :-  I led a team in developing HR solutions designed to streamline the recruitment process, incorporating advanced NLP techniques and machine learning algorithms. Our solutions were directly responsible for improving the efficiency and efficacy of hiring practices, showcasing my leadership in handling projects that positively impact the company's operations and revenue.
 
 #### **Data Analyst Engineer | Resolute.AI**
 
 *Apr 2022 – Jul 2022 | Work From Home Internship*
+
+* Work :- I was involved towards the predictive analytics projects that were incorporated as an upfront solution on the company’s website. This role required a keen understanding of business applications and a strategic approach to data analysis and solution deployment, further enhancing the company's offerings and industry position.
 
 
 #### **Machine Learning Intern | A2J Technology - Solvendo**
