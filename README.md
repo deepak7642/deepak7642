@@ -1,7 +1,7 @@
   # <h1 align="center"> Data Science Report Card 📊🔍</h1>
 
 ## Summary
-Data Science Enthusiast with 1.3 years of hands-on experience 🌐
+Data Science Enthusiast with 1.8 years of hands-on experience 🌐
 
 ## Goals
 * **Objective:** Contribute effectively to organizations leveraging existing skills and knowledge, also assest to be 💼🤝
@@ -11,8 +11,8 @@ Data Science Enthusiast with 1.3 years of hands-on experience 🌐
 - **IDE**: Google Colab 💻
 - **Programming Language**: Python 🐍
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn 📊🔮
-- **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost and PyCaret 📈🌲
-- **Deployment (Framework)**: Streamlit 🚀
+- **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost, CatBoost, LightGBM, Fb-Prophet and PyCaret 📈🌲
+- **Deployment (Framework)**: Streamlit and Flask API 🚀
 - **Soft Skills**: Team Player, Curious, Collaborative, Communicative, Keen learner 🤝💬📚
 
 ## **Additional Learnings**
@@ -28,7 +28,7 @@ Data Science Enthusiast with 1.3 years of hands-on experience 🌐
 
 *Apr 2024 – Present | Work From Home Internship with Job*
 
-* Work :- I'm contributing towards their developing predictive models critical for enhancing agricultural decision-making. My role involves not only technical model development but also the strategic application of these models in revenue-generating projects, underscoring my ability to contribute directly to business outcomes. Additionally, I actively participate in candidate evaluations, enhancing the interview and selection processes by leveraging industry knowledge and technical expertise.
+* Work :- I'm contributing towards their developing predictive models critical for enhancing agricultural decision-making. My role involves not only technical model development but also the strategic application of these models in revenue-generating projects, underscoring my ability to contribute directly to business outcomes. 
 
 #### **ML Engineer & ML Team Lead | Rework AI**
 
