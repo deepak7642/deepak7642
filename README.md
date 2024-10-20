@@ -1,7 +1,7 @@
   # <h1 align="center"> Data Science Report Card 📊🔍</h1>
 
 ## Summary
-Data Science Enthusiast with 1.8 years of hands-on experience 🌐
+Data Science Enthusiast with 1.9 years of hands-on experience 🌐
 
 ## Goals
 * **Objective:** Contribute effectively to organizations leveraging existing skills and knowledge, also assest to be 💼🤝
@@ -28,13 +28,17 @@ Data Science Enthusiast with 1.8 years of hands-on experience 🌐
 
 *Apr 2024 – Present | Work From Home Internship with Job*
 
-* Work :- I'm contributing towards their developing predictive models critical for enhancing agricultural decision-making. My role involves not only technical model development but also the strategic application of these models in revenue-generating projects, underscoring my ability to contribute directly to business outcomes. 
+* Work :- I'm contributing towards their developing predictive models critical for enhancing agricultural decision-making. My role involves not only technical model development but also the strategic application of these models in revenue-generating projects, underscoring my ability to contribute directly to business outcomes.
+
+Note - Currently I'm working and leading the Market Price Forecast project and company willing to considering it under Provisional Patent. 
 
 #### **ML Engineer & ML Team Lead | Rework AI**
 
 *Mar 2023 – Sep 2023 | Work From Home Internship*
 
-* Work :-  I led a team in developing HR solutions designed to streamline the recruitment process, incorporating advanced NLP techniques and machine learning algorithms. Our solutions were directly responsible for improving the efficiency and efficacy of hiring practices, showcasing my leadership in handling projects that positively impact the company's operations and revenue.
+* Work :-  I led a AI/ML team in developing HR solutions designed to streamline the recruitment process, incorporating advanced NLP techniques and machine learning algorithms. Our solutions were directly responsible for improving the efficiency and efficacy of hiring practices, showcasing my leadership in handling projects that positively impact the company's operations and revenue.
+
+Note - These solutions enhanced the company's recruitment efficiency.
 
 #### **Data Analyst Engineer | Resolute.AI**
 
@@ -42,6 +46,7 @@ Data Science Enthusiast with 1.8 years of hands-on experience 🌐
 
 * Work :- I was involved towards the predictive analytics projects that were incorporated as an upfront solution on the company’s website. This role required a keen understanding of business applications and a strategic approach to data analysis and solution deployment, further enhancing the company's offerings and industry position.
 
+Note - One of my solutions got implemented as a flagship feature on the company's website.
 
 #### **Machine Learning Intern | A2J Technology - Solvendo**
 
@@ -52,6 +57,7 @@ Data Science Enthusiast with 1.8 years of hands-on experience 🌐
 
 *Jan 2021 – Feb 2021 | Work From Home Internship*
 
+* Work :- The main goal of the all eight tasks Demonstrating proficiency in diverse tasks, including predictive modeling, exploratory data analysis, and machine learning model creation. Individual efforts led to the successful completion of each task and created demonstrations recording & share them on YouTube.
 
 ## **Education**
 
