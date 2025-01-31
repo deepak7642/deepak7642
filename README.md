@@ -1,7 +1,7 @@
   # <h1 align="center"> Data Science Report Card 📊🔍</h1>
 
 ## Summary
-Data Science Enthusiast with 1.9 years of hands-on experience 🌐
+Data Science Enthusiast with 2 years of hands-on experience 🌐
 
 ## My Resume Website
 [Updated resume 2024](https://dour-myth-4e0.notion.site/Deepak-Kaura-s-Resume-62f99154d8eb4fa19ad97768b0811603)
@@ -14,13 +14,14 @@ Data Science Enthusiast with 1.9 years of hands-on experience 🌐
 - **IDE**: Google Colab 💻
 - **Programming Language**: Python 🐍
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn 📊🔮
-- **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost, CatBoost, LightGBM, Fb-Prophet and PyCaret 📈🌲
-- **Deployment (Framework)**: Streamlit and Flask API 🚀
+- **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost, CatBoost, LightGBM 📈🌲
+- **Time Series Analysis**: Fb-Prophet
+- **Auto-ML**: PyCaret
+- **Deployment (Framework)**: Streamlit, Gradio and Flask API 🚀
 - **Soft Skills**: Team Player, Curious, Collaborative, Communicative, Keen learner 🤝💬📚
 
 ## **Additional Learnings**
 
-- **Time Series Analysis (ARIMA)**
 - **Tableau**
 - **MS SQL**
 
@@ -31,36 +32,43 @@ Data Science Enthusiast with 1.9 years of hands-on experience 🌐
 
 *Apr 2024 – Present | Work From Home Internship with Job*
 
-* Work :- I'm contributing towards their developing predictive models critical for enhancing agricultural decision-making. My role involves not only technical model development but also the strategic application of these models in revenue-generating projects, underscoring my ability to contribute directly to business outcomes.
+* Work : Develop predictive models for agricultural solutions, enhancing decision-making and efficiency, while managing key responsibilities within the company : -
 
-Note - Currently I'm working and leading the Market Price Forecast project and company willing to considering it under Provisional Patent. 
+
+  * Research and analyze AgriTech industry-related papers to enhance agricultural solutions using AI/ML, focusing on commodity market price forecasting, crop yield   prediction, crop stage advisory, and upcoming innovations.
+ 
+  * Lead AI/ML team in developing and deploying solutions using Streamlit, Gradio, and Flask API to enable farmers to make smarter, data-driven decisions.
+ 
+  * Actively participate in strategy meetings, contributing innovative ideas and collaborating on strategic plans for successful execution.
+
 
 #### **ML Engineer & ML Team Lead | Rework AI**
 
 *Mar 2023 – Sep 2023 | Work From Home Internship*
 
-* Work :-  I led a AI/ML team in developing HR solutions designed to streamline the recruitment process, incorporating advanced NLP techniques and machine learning algorithms. Our solutions were directly responsible for improving the efficiency and efficacy of hiring practices, showcasing my leadership in handling projects that positively impact the company's operations and revenue.
+* Work : Develop robust HR solutions to automate time-consuming tasks and improve recruitment efficiency :-
 
-Note - These solutions enhanced the company's recruitment efficiency.
+  * Lead the design and development of automated features, integrating open-source GPT/LLM models for job description generation.
+ 
+  * Manage the development of advanced algorithms using NLP techniques for resume matching with job descriptions.
+ 
+  * Oversee deployment of the solutions via Streamlit, enhancing recruitment processes
+
 
 #### **Data Analyst Engineer | Resolute.AI**
 
 *Apr 2022 – Jul 2022 | Work From Home Internship*
 
-* Work :- I was involved towards the predictive analytics projects that were incorporated as an upfront solution on the company’s website. This role required a keen understanding of business applications and a strategic approach to data analysis and solution deployment, further enhancing the company's offerings and industry position.
+* Work : Develop and present predictive analytics use case studies to senior management and the Co-Founder to contribute to the company’s future solutions.
 
-Note - One of my solutions got implemented as a flagship feature on the company's website.
+   * Lead the development of predictive analytics models for diverse industry use cases, analyzing data patterns and trends.
+ 
+   * Independently learn and implement Streamlit for UI development, deploying exploratory data analysis with Altair and Plotly.
+ 
+   * Present use case studies in POC form to senior management and the Co-Founder.
+ 
+   * One of the solutions was implemented as a flagship feature on the company's website.
 
-#### **Machine Learning Intern | A2J Technology - Solvendo**
-
-*Oct 2021 – Jan 2022 | Work From Home Internship*
-
-
-#### **Data Science & Business Analytics Intern | The Sparks Foundation**
-
-*Jan 2021 – Feb 2021 | Work From Home Internship*
-
-* Work :- The main goal of the all eight tasks Demonstrating proficiency in diverse tasks, including predictive modeling, exploratory data analysis, and machine learning model creation. Individual efforts led to the successful completion of each task and created demonstrations recording & share them on YouTube.
 
 ## **Education**
 
@@ -88,7 +96,7 @@ Note - One of my solutions got implemented as a flagship feature on the company'
   - *10-month program covering technical and business aspects of the application of Analytics & Data Science*
   - *Overall Score %: 81.25*
 
-## Real World based Projects
+## Real World based Project
 
 ### **Fiverr: End-to-End Project with Deployment**
 
@@ -106,10 +114,18 @@ Develop a Potential Spammers prediction model using Sklearn. Experiment with div
 
 **Solution Link:** [Link to Solution](https://www.kaggle.com/code/deepakkaura/fiverr-end-to-end-project-includes-deployment)
 
-#### For more projects exploration kindly check here [Projects list](https://github.com/deepak7642/Unique-and-Real-World-based-Projects)
+
 
 ## **Awards and Recognitions**
 
+- **Semi-Finalist, IIT Kharagpur Data Science Hackathon 2025**
+  (Jan 2025)
+  - *Cleared the quiz-based selection round and advanced to the Data Solution round, ultimately securing a semi-finalist position in this highly competitive event.*
+
+- **Semi-Finalist, VJ Hackathon**
+  (Oct 2024)
+  - *Advanced to the semi-finals for presenting an innovative AgriTech solution aimed at forecasting commodity market prices, using AI/ML and predictive analytics to support smarter agricultural decision-making.*
+ 
 - **LLM Streamlit Hackathon - Top 250 Entry**
   (Sep 2023)
   - *Awarded a position among the top 250 participants in the LLM Streamlit Hackathon. Received official confirmation via email from the event organizers.*
@@ -137,7 +153,7 @@ Develop a Potential Spammers prediction model using Sklearn. Experiment with div
 * **Email:** kauradeepak26@gmail.com 📧
 
 ## Job Search Status
-Actively seeking opportunities in Data Analyst, Data Scientist, and Machine Learning roles. Open to collaboration if organizations/individual believe that my knowledge and work experience can contribute to their projects and goals. 🤝💼
+Actively seeking opportunities in Data Scientist or AI/ML Engineer roles. Open to collaboration if organizations/individual believe that my knowledge and work experience can contribute to their projects and goals. 🤝💼
 
 ---
   
