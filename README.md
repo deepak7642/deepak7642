@@ -4,7 +4,7 @@
 Data Science Enthusiast with 2 years of hands-on experience 🌐
 
 ## My Resume Website
-[Updated resume 2024](https://dour-myth-4e0.notion.site/Deepak-Kaura-s-Resume-62f99154d8eb4fa19ad97768b0811603)
+[Updated resume 2025](https://dour-myth-4e0.notion.site/Deepak-Kaura-s-Resume-62f99154d8eb4fa19ad97768b0811603)
 
 ## Goals
 * **Objective:** Contribute effectively to organizations leveraging existing skills and knowledge, also assest to be 💼🤝
