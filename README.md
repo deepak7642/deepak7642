@@ -137,10 +137,6 @@ Develop a Potential Spammers prediction model using Sklearn. Experiment with div
   - *Joined the "Mercor Chatbot Challenge," using Open-Source GPT Models to create innovative chatbots. Explored creative user engagement and demonstrated the transformative potential of chatbots in interactions.*
 
 
-- **Gender Equality Pledge, The Sparks Foundation**
-  (Feb 2021)
-  - *"I STAND FOR GENDER EQUALITY." Participated in the Gender Equality pledge for the occasion of Woman's Day organized by The Sparks Foundation.*
-
 ## Contact Information
 
 * **Youtube Channel:** [Deepak Kaura's Data Science Journey 🎥](https://www.youtube.com/channel/UCgIenOB7b3aEuo4e6Nv8BZQ)
