@@ -53,6 +53,8 @@ Data Science Enthusiast with 2 years of hands-on experience 🌐
   * Manage the development of advanced algorithms using NLP techniques for resume matching with job descriptions.
  
   * Oversee deployment of the solutions via Streamlit, enhancing recruitment processes
+ 
+  * •During the internship, earned recognition for exceptional performance.
 
 
 #### **Data Analyst Engineer | Resolute.AI**
@@ -134,9 +136,6 @@ Develop a Potential Spammers prediction model using Sklearn. Experiment with div
   (Jul 2023)
   - *Joined the "Mercor Chatbot Challenge," using Open-Source GPT Models to create innovative chatbots. Explored creative user engagement and demonstrated the transformative potential of chatbots in interactions.*
 
-- **Exceptional Performance, Rework AI**
-  (Mar 2023)
-  - *Earned an outstanding performance certificate for the month of March during the internship at Rework AI, showcasing exceptional dedication and skills.*
 
 - **Gender Equality Pledge, The Sparks Foundation**
   (Feb 2021)
