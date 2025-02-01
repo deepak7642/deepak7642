@@ -54,7 +54,7 @@ Data Science Enthusiast with 2 years of hands-on experience 🌐
  
   * Oversee deployment of the solutions via Streamlit, enhancing recruitment processes
  
-  * •During the internship, earned recognition for exceptional performance.
+  * During the internship, earned recognition for exceptional performance.
 
 
 #### **Data Analyst Engineer | Resolute.AI**
