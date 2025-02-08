@@ -14,9 +14,10 @@ Data Science Enthusiast with 2 years of hands-on experience 🌐
 - **IDE**: Google Colab 💻
 - **Programming Language**: Python 🐍
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn 📊🔮
-- **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost, CatBoost, LightGBM 📈🌲
+- **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost, CatBoost, LightGBM, K-means clustering 📈🌲
 - **Time Series Analysis**: Fb-Prophet
 - **Auto-ML**: PyCaret
+- **NLP**: BERT
 - **Deployment (Framework)**: Streamlit, Gradio and Flask API 🚀
 - **Soft Skills**: Team Player, Curious, Collaborative, Communicative, Keen learner 🤝💬📚
 
