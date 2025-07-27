@@ -1,7 +1,7 @@
   # <h1 align="center"> Data Science Report Card 📊🔍</h1>
 
 ## Summary
-Data Science Enthusiast with 2 years of hands-on experience 🌐
+Data Science Enthusiast with 2.6 years of hands-on experience 🌐
 
 ## My Resume Website
 [Updated resume 2025](https://dour-myth-4e0.notion.site/Deepak-Kaura-s-Resume-62f99154d8eb4fa19ad97768b0811603)
@@ -18,6 +18,8 @@ Data Science Enthusiast with 2 years of hands-on experience 🌐
 - **Time Series Analysis**: Fb-Prophet
 - **Auto-ML**: PyCaret
 - **NLP**: BERT
+- **LLM Frameworks:** LangChain, txtai 🔗
+- **MLOps:** MLflow, ZenML 🛠️
 - **Deployment (Framework)**: Streamlit, Gradio and Flask API 🚀
 - **Soft Skills**: Team Player, Curious, Collaborative, Communicative, Keen learner 🤝💬📚
 
@@ -31,12 +33,12 @@ Data Science Enthusiast with 2 years of hands-on experience 🌐
 
 #### **AI/ML Developer | Farmoid Robotech Pvt Ltd**
 
-*Apr 2024 – Present | Work From Home Internship with Job*
+*Apr 2024 – Present | Work From Home Job*
 
 * Work : Develop predictive models for agricultural solutions, enhancing decision-making and efficiency, while managing key responsibilities within the company : -
 
 
-  * Research and analyze AgriTech industry-related papers to enhance agricultural solutions using AI/ML, focusing on commodity market price forecasting, crop yield   prediction, crop stage advisory, and upcoming innovations.
+  * Research and analyze AgriTech industry-related papers to enhance agricultural solutions using AI/ML, focusing on Commodity Market Price Forecasting, Crop Yield Prediction, Crop Stage Advisory, Soil Health Monitoring for Crop Recommendation, Farmoid AI ChatBot — Kisan Ke Sawalon Ka AI Jawaab, and upcoming innovations.
  
   * Lead AI/ML team in developing and deploying solutions using Streamlit, Gradio, and Flask API to enable farmers to make smarter, data-driven decisions.
  
