@@ -123,7 +123,7 @@ Develop a Potential Spammers prediction model using Sklearn. Experiment with div
 
 ## **Awards and Recognitions**
 
-- **Semi-Finalist, IIT Kharagpur Data Science Hackathon 2025**
+- **Pre-Finalist, IIT Kharagpur Data Science Hackathon 2025**
   (Jan 2025)
   - *Cleared the quiz-based selection round and advanced to the Data Solution round, ultimately securing a semi-finalist position in this highly competitive event.*
 
