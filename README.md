@@ -122,11 +122,11 @@ Develop a Potential Spammers prediction model using Sklearn. Experiment with div
 
 - **Top 10 Runner-Up, Reelcode's August 2025 Project-A-Thon**
    (Aug, 2025)
-- *Developed an AI-driven recovery engine then recommends personalized re-engagement strategies — from tailored offers to smart reminders which also blends customer behavior analytics, smart clustering, and predictive modeling to spot high-risk users before they drop off.
+    - *Developed an AI-driven recovery engine then recommends personalized re-engagement strategies — from tailored offers to smart reminders which also blends customer behavior analytics, smart clustering, and predictive modeling to spot high-risk users before they drop off.*
 
 - **Finalist, Airothon 2025 - Agentic AI Hackathon**
    (Aug, 2025)
-- *Developed an innovative Insurance solution that combines Clustering, Machine Learning, and LLMs to transform churn predictions into actionable, personalized retention strategies — helping insurers boost loyalty, cut churn, and maximize customer lifetime value.*
+    - *Developed an innovative Insurance solution that combines Clustering, Machine Learning, and LLMs to transform churn predictions into actionable, personalized retention strategies — helping insurers boost loyalty, cut churn, and maximize customer lifetime value.*
 
 - **Semi-Finalist, IIT Kharagpur Data Science Hackathon 2025**
   (Jan, 2025)
