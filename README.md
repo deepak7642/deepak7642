@@ -3,9 +3,6 @@
 ## Summary
 Data Science Enthusiast with 2.6 years of hands-on experience 🌐
 
-## My Resume Website
-[Updated resume 2025](https://dour-myth-4e0.notion.site/Deepak-Kaura-s-Resume-62f99154d8eb4fa19ad97768b0811603)
-
 ## Goals
 * **Objective:** Contribute effectively to organizations leveraging existing skills and knowledge, also assest to be 💼🤝
 
@@ -119,24 +116,32 @@ Develop a Potential Spammers prediction model using Sklearn. Experiment with div
 
 **Solution Link:** [Link to Solution](https://www.kaggle.com/code/deepakkaura/fiverr-end-to-end-project-includes-deployment)
 
-
+#### ***For more exploration in terms of Projects/Prototypes :-*** [Click here](https://github.com/deepak7642/Hackathons-Recognization-)
 
 ## **Awards and Recognitions**
 
-- **Pre-Finalist, IIT Kharagpur Data Science Hackathon 2025**
-  (Jan 2025)
+- **Top 10 Runner-Up, Reelcode's August 2025 Project-A-Thon**
+   (Aug, 2025)
+- *Developed an AI-driven recovery engine then recommends personalized re-engagement strategies — from tailored offers to smart reminders which also blends customer behavior analytics, smart clustering, and predictive modeling to spot high-risk users before they drop off.
+
+- **Finalist, Airothon 2025 - Agentic AI Hackathon**
+   (Aug, 2025)
+- *Developed an innovative Insurance solution that combines Clustering, Machine Learning, and LLMs to transform churn predictions into actionable, personalized retention strategies — helping insurers boost loyalty, cut churn, and maximize customer lifetime value.*
+
+- **Semi-Finalist, IIT Kharagpur Data Science Hackathon 2025**
+  (Jan, 2025)
   - *Cleared the quiz-based selection round and advanced to the Data Solution round, ultimately securing a semi-finalist position in this highly competitive event.*
 
 - **Semi-Finalist, VJ Hackathon**
-  (Oct 2024)
+  (Oct, 2024)
   - *Advanced to the semi-finals for presenting an innovative AgriTech solution aimed at forecasting commodity market prices, using AI/ML and predictive analytics to support smarter agricultural decision-making.*
  
 - **LLM Streamlit Hackathon - Top 250 Entry**
-  (Sep 2023)
+  (Sep, 2023)
   - *Awarded a position among the top 250 participants in the LLM Streamlit Hackathon. Received official confirmation via email from the event organizers.*
 
 - **Participation Certificate, Mercor Chatbot Challenge**
-  (Jul 2023)
+  (Jul, 2023)
   - *Joined the "Mercor Chatbot Challenge," using Open-Source GPT Models to create innovative chatbots. Explored creative user engagement and demonstrated the transformative potential of chatbots in interactions.*
 
 
