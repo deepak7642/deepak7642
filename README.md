@@ -1,7 +1,7 @@
   # <h1 align="center"> Data Science Report Card 📊🔍</h1>
 
 ## Summary
-Data Science Enthusiast with 2.6 years of hands-on experience 🌐
+Data Science Enthusiast with 2.7 years of hands-on experience 🌐
 
 ## Goals
 * **Objective:** Contribute effectively to organizations leveraging existing skills and knowledge, also assest to be 💼🤝
