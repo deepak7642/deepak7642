@@ -1,23 +1,23 @@
   # <h1 align="center"> Data Science Report Card 📊🔍</h1>
 
 ## Summary
-Data Science Enthusiast with 2.7 years of hands-on experience 🌐
+Data Science Enthusiast with 3 years of hands-on experience 🌐
 
 ## Goals
-* **Objective:** Contribute effectively to organizations leveraging existing skills and knowledge, also assest to be 💼🤝
+* **Objective:** Dedicated to contributing valuable insights and building scalable solutions that support organizational growth. 💼🤝
 
 ## **Skills**
 
 - **IDE**: Google Colab 💻
 - **Programming Language**: Python 🐍
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn 📊🔮
-- **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost, CatBoost, LightGBM, K-means clustering 📈🌲
-- **Time Series Analysis**: Fb-Prophet
+- **Machine Learning**: Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost, CatBoost, LightGBM, K-Means Clustering 📈🌲
+- **Time Series Analysis**: Fb-Prophet, LSTM
 - **Auto-ML**: PyCaret
 - **NLP**: BERT
 - **LLM Frameworks:** LangChain, txtai 🔗
 - **MLOps:** MLflow, ZenML 🛠️
-- **Deployment (Framework)**: Streamlit, Gradio and Flask API 🚀
+- **Deployment (Framework)**: Streamlit, Gradio and Flask 🚀
 - **Soft Skills**: Team Player, Curious, Collaborative, Communicative, Keen learner 🤝💬📚
 
 ## **Additional Learnings**
@@ -35,11 +35,13 @@ Data Science Enthusiast with 2.7 years of hands-on experience 🌐
 * Work : Develop predictive models for agricultural solutions, enhancing decision-making and efficiency, while managing key responsibilities within the company : -
 
 
-  * Research and analyze AgriTech industry-related papers to enhance agricultural solutions using AI/ML, focusing on Commodity Market Price Forecasting, Crop Yield Prediction, Crop Stage Advisory, Soil Health Monitoring for Crop Recommendation, Farmoid AI ChatBot — Kisan Ke Sawalon Ka AI Jawaab, and upcoming innovations.
+  * AI-driven AgriTech solutions developed and deployed including — Commodity Market Price Forecasting, Crop Yield Prediction, Crop Stage Advisory, Soil Health Monitoring for Crop Recommendation and upcoming more — powering the company’s Mobile App.
  
-  * Lead AI/ML team in developing and deploying solutions using Streamlit, Gradio, and Flask API to enable farmers to make smarter, data-driven decisions.
+  * Designed the Farmoid AI Chatbot (“Kisan Ke Sawalon Ka AI Jawaab”) using LLM frameworks for real-time farmer assistance in regional languages.
  
-  * Actively participate in strategy meetings, contributing innovative ideas and collaborating on strategic plans for successful execution.
+  * Led the AI/ML team through end-to-end lifecycle — from research and experimentation to deployment via Streamlit, Gradio, and Flask.
+    
+  * Actively contributed to strategy meetings by sharing innovative ideas and collaborating on execution plans to ensure scalable and successful solutions.
 
 
 #### **ML Engineer & ML Team Lead | Rework AI**
@@ -48,13 +50,11 @@ Data Science Enthusiast with 2.7 years of hands-on experience 🌐
 
 * Work : Develop robust HR solutions to automate time-consuming tasks and improve recruitment efficiency :-
 
-  * Lead the design and development of automated features, integrating open-source GPT/LLM models for job description generation.
+  * Led a team to develop AI-powered HR automation tools — including Open-Source GPT/LLM-based job description generation and NLP-driven resume–JD matching systems — deployed on the company’s website.
  
-  * Manage the development of advanced algorithms using NLP techniques for resume matching with job descriptions.
+  * Built scalable pipelines integrating LLMs/NLP algorithms to streamline recruitment operations and improve matching accuracy.
  
-  * Oversee deployment of the solutions via Streamlit, enhancing recruitment processes
- 
-  * During the internship, earned recognition for exceptional performance.
+  * Recognized by senior management for exceptional contribution and performance during the internship.
 
 
 #### **Data Analyst Engineer | Resolute.AI**
@@ -63,13 +63,11 @@ Data Science Enthusiast with 2.7 years of hands-on experience 🌐
 
 * Work : Develop and present predictive analytics use case studies to senior management and the Co-Founder to contribute to the company’s future solutions.
 
-   * Lead the development of predictive analytics models for diverse industry use cases, analyzing data patterns and trends.
+   * Designed and presented predictive analytics proof-of-concepts directly to the Co-Founder and senior management, influencing upcoming product features.
  
-   * Independently learn and implement Streamlit for UI development, deploying exploratory data analysis with Altair and Plotly.
+   * Created dynamic data visualization dashboards using Altair and Plotly, improving analytical workflows and internal data presentation.
  
-   * Present use case studies in POC form to senior management and the Co-Founder.
- 
-   * One of the solutions was implemented as a flagship feature on the company's website.
+   * One of the solutions I developed was selected and implemented as a flagship feature on the company’s official website.
 
 
 ## **Education**
@@ -117,6 +115,14 @@ Develop a Potential Spammers prediction model using Sklearn. Experiment with div
 **Solution Link:** [Link to Solution](https://www.kaggle.com/code/deepakkaura/fiverr-end-to-end-project-includes-deployment)
 
 #### ***For more exploration in terms of Projects/Prototypes :-*** [Click here](https://github.com/deepak7642/Hackathons-Recognization-)
+
+## **Volunteer**
+
+- **RAYA The Architecture of Type-1 Civilization**
+   
+    - *As Predictive Analytics leading the creation of RAYA’s Human Sustainability Index which think of it as the brain that combines all other modules — water, energy, climate — to measure how sustainable human civilization is at a state/city/district level.*
+
+     
 
 ## **Awards and Recognitions**
 
