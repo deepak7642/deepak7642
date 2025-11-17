@@ -120,7 +120,7 @@ Develop a Potential Spammers prediction model using Sklearn. Experiment with div
 
 - **RAYA The Architecture of Type-1 Civilization**
    
-    - *As Predictive Analytics leading the creation of RAYA’s Human Sustainability Index which think of it as the brain that combines all other modules — water, energy, climate — to measure how sustainable human civilization is at a state/city/district level.*
+    - *As Predictive Analytics leading the creation of RAYA’s Human Sustainability Index which think of it as the brain (AI Integration) assess current and future sustainability across key environmental indicators and measure city or regional livability over time.*
 
      
 
