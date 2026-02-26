@@ -1,10 +1,10 @@
   # <h1 align="center"> Data Science Report Card 📊🔍</h1>
 
 ## Summary
-Data Science Enthusiast with 3 years of hands-on experience 🌐
+AI/ML Enthusiast with 3.2 years of hands-on experience 🌐
 
 ## Goals
-* **Objective:** Dedicated to contributing valuable insights and building scalable solutions that support organizational growth. 💼🤝
+* **Objective:** Experience in predictive modeling. Passionate about leveraging AI, Machine Learning, and analytics to enhance decision-making and drive business impact. Dedicated to contributing valuable insights and building scalable solutions that support organizational growth. 💼🤝
 
 ## **Skills**
 
@@ -20,7 +20,7 @@ Data Science Enthusiast with 3 years of hands-on experience 🌐
 - **Deployment (Framework)**: Streamlit, Gradio and Flask 🚀
 - **Soft Skills**: Team Player, Curious, Collaborative, Communicative, Keen learner 🤝💬📚
 
-## **Additional Learnings**
+## **Database and Data Visualization**
 
 - **Tableau**
 - **MS SQL**
@@ -41,7 +41,7 @@ Data Science Enthusiast with 3 years of hands-on experience 🌐
  
   * Led the AI/ML team through end-to-end lifecycle — from research and experimentation to deployment via Streamlit, Gradio, and Flask.
     
-  * Actively contributed to strategy meetings by sharing innovative ideas and collaborating on execution plans to ensure scalable and successful solutions.
+  * Drove strategic execution of AI-powered agricultural solutions, resulting in 35–40% increase in farmer profitability through data-driven forecasting and advisory systems.
 
 
 #### **ML Engineer & ML Team Lead | Rework AI**
