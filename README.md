@@ -1,10 +1,11 @@
-  # <h1 align="center"> Data Science Report Card 📊🔍</h1>
+  # <h1 align="center"> AI/ML Report Card 📊🔍</h1>
+
+# Hi 👋, I'm Deepak Kaura
 
 ## Summary
 AI/ML Enthusiast with 3.2 years of hands-on experience 🌐
 
-## Goals
-* **Objective:** Experience in predictive modeling. Passionate about leveraging AI, Machine Learning, and analytics to enhance decision-making and drive business impact. Dedicated to contributing valuable insights and building scalable solutions that support organizational growth. 💼🤝
+
 
 ## **Skills**
 
