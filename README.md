@@ -2,6 +2,8 @@
 
 ### An AI/ML Developer with 3.2 years of experience
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=deepak7642.readme)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak7642&label=Profile%20views&color=0e75b6&style=flat" alt="deepak7642" /> </p>
 
 - 🔭 I'm currently working on **AI/ML projects involving predictive analytics, LLM-powered applications, and real-world data-driven solutions across multiple domains including Agritech, FinTech, E-commerce, and Retail.**
