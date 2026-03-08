@@ -14,7 +14,11 @@
 
 - 💬 Ask me about **AI/ML, Predictive Analytics, LLM applications, Model Development, and real-world AI use cases.**
 
-- 📫 How to reach me **kauradeepak26@gmail.com**
+- 📫 How to reach me
+
+<a href="mailto:YourEmail@gmail.com">![kauradeepak26@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+
 
 - ⚡ Fun fact **I often experiment with AI ideas and turn them into quick prototypes just to see what’s possible.**
 
