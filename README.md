@@ -16,7 +16,7 @@
 
 - 📫 How to reach me
 
-<a href="mailto:YourEmail@gmail.com">![kauradeepak26@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:kauradeepak26@gmail.com">![kauradeepak26@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
 
