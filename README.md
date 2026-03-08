@@ -16,7 +16,8 @@
 
 - 📫 How to reach me
 
-<a href="mailto:kauradeepak26@gmail.com">![kauradeepak26@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakkaura) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kauradeepak26@gmail.com) 
+
 
 
 
