@@ -16,13 +16,13 @@
   <img src="https://komarev.com/ghpvc/?username=deepak7642&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- 🔭 I'm currently working on **AI/ML projects involving predictive analytics, LLM-powered applications, and real-world data-driven solutions across multiple domains including Agritech, FinTech, E-commerce, and Retail.**
+- 🔭 I'm currently working on ***AI/ML projects involving predictive analytics, LLM-powered applications, and real-world data-driven solutions across multiple domains including Agritech, FinTech, E-commerce, and Retail.***
 
-- 🌱 I'm currently learning **advanced LLM applications, RAG architectures, and scalable AI/ML system design.**
+- 🌱 I'm currently learning ***advanced LLM applications, RAG architectures, and scalable AI/ML system design.***
 
-- 👯 I'm looking to collaborate on **AI/ML and LLM-based projects across sectors such as Agritech, FinTech, E-commerce, Retail, and Government.**
+- 👯 I'm looking to collaborate on ***AI/ML and LLM-based projects across sectors such as Agritech, FinTech, E-commerce, Retail, and Government.***
 
-- 💬 Ask me about **AI/ML, Predictive Analytics, LLM applications, Model Development, and real-world AI use cases.**
+- 💬 Ask me about ***AI/ML, Predictive Analytics, LLM applications, Model Development, and real-world AI use cases.***
 
 - ⚡ Fun fact ***I probably spend more time talking to Python 🐍 than to humans — luckily, it’s one of the friendliest languages for building AI/ML solutions.***
 
