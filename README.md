@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **AI/ML, Predictive Analytics, LLM applications, Model Development, and real-world AI use cases.**
 
-- ⚡ Fun fact: ***I probably spend more time talking to Python 🐍 than to humans — luckily, it’s one of the friendliest languages for building AI/ML solutions.***
+- ⚡ Fun fact ***I probably spend more time talking to Python 🐍 than to humans — luckily, it’s one of the friendliest languages for building AI/ML solutions.***
 
 
 ### 📫 How to reach me
