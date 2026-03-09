@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Deepak+Kaura;AI%2FML+Developer;3.2+years+of+experience;LLM+Applications+Builder;Predictive+Analytics"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=41d2beF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Deepak+Kaura;AI%2FML+Developer;3.2+years+of+experience;LLM+Applications+Builder;Predictive+Analytics"/>
 </p>
 
 <p align="center">
