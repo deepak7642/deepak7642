@@ -1,10 +1,16 @@
-# Hi 👋, I'm Deepak Kaura
 
-### An AI/ML Developer with 3.2 years of experience
+<p align="center">
+<img src="https://github.com/user-attachments/assets/723bcc4c-c5eb-4045-be65-dc6164ef4c0d" width="500"/>
+</p>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=deepak7642.readme)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Deepak+Kaura;AI%2FML+Developer;3.2+years+of+experience;LLM+Applications+Builder;Predictive+Analytics"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak7642&label=Profile%20views&color=0e75b6&style=flat" alt="deepak7642" /> </p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deepak7642.readme" />
+  <img src="https://komarev.com/ghpvc/?username=deepak7642&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 - 🔭 I'm currently working on **AI/ML projects involving predictive analytics, LLM-powered applications, and real-world data-driven solutions across multiple domains including Agritech, FinTech, E-commerce, and Retail.**
 
