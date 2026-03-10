@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=20B2AA&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;3.2+Years+Experience;Predictive+Analytics+%26+LLM+Applications+Builder"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=800&color=20B2AA&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;3.2+Years+Experience;Predictive+Analytics+%26+LLM+Applications+Builder"/>
 </p>
 
 <p align="center">
