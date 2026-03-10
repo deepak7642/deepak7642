@@ -49,7 +49,8 @@
 ### 🏆 Awards & Recognition
 
 - 🎤 Represented **Farmoid** at the **Bharat AI Summit 2026** at **Bharat Mandapam, New Delhi**, showcasing AI-driven innovations in the AgriTech space.
-- **🥈 Finalist –** *Gamified: A Gentle Digital Fast*, **TechSprint – Leveraging the Power of AI**  
+- **🥈 Finalist –** *Gamified: A Gentle Digital Fast*, **TechSprint – Leveraging the Power of AI**
+- **🥉 Semi-Finalist** – *Track B: BDH-Driven Continuous Narrative Reasoning*, **IIT Kharagpur Data Science Hackathon 2026**  
 - **🏅 Top 10 Runner-Up –** *AI Cart Recovery Agent*, **ReelCode August 2025 Project-A-Thons**  
 - **🥈 Finalist –** *Insurance Customer Value Enhancement*, **Airothon 2025 – Agentic AI Hackathon**
 
