@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=0077B6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Deepak+Kaura"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=2500&color=0077B6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Deepak+Kaura"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=800&color=20B2AA&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;3.2+Years+Experience;Predictive+Analytics+%26+LLM+Applications+Builder"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=2500&color=20B2AA&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;3.2+Years+Experience;Predictive+Analytics+%26+LLM+Applications+Builder"/>
 </p>
 
 <p align="center">
