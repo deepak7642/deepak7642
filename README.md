@@ -58,7 +58,7 @@
 
 -----
 
-## ***📊 GitHub Stats***
+## ***📊 Deepak's GitHub Stats***
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7642&layout=compact&theme=dark)
