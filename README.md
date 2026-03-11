@@ -58,12 +58,11 @@
 
 -----
 
-### 📊 GitHub Stats
+## ***📊 GitHub Stats***
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=deepak7642&theme=dark)
-
-## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak7642&layout=compact&theme=dark)
 
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=deepak7642&theme=dark)
 
