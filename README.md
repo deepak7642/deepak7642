@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=2500&color=20B2AA&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;3.2+Years+Experience;Predictive+Analytics+%26+LLM+Applications+Builder"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=2500&color=20B2AA&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;3.2+Years+Experience;Predictive+Analytics+%26+LLM+Applications+Builder"/>
 </p>
 
 <p align="center">
@@ -18,15 +18,15 @@
 
 -----
 
-- 🔭 I'm currently working on ***AI/ML projects involving predictive analytics, LLM-powered applications, and real-world data-driven solutions across multiple domains including Agritech, FinTech, E-commerce, and Retail.***
+- 🔭 I'm currently working on — ***AI/ML projects involving predictive analytics, LLM-powered applications, and real-world data-driven solutions across multiple domains including Agritech, FinTech, E-commerce, and Retail.***
 
-- 🌱 I'm currently learning ***advanced LLM applications, RAG architectures, and scalable AI/ML system design.***
+- 🌱 I'm currently learning — ***advanced LLM applications, RAG architectures, and scalable AI/ML system design.***
 
-- 👯 I'm looking to collaborate on ***AI/ML and LLM-based projects across sectors such as Agritech, FinTech, E-commerce, Retail, and Government.***
+- 👯 I'm looking to collaborate on — ***AI/ML and LLM-based projects across sectors such as Agritech, FinTech, E-commerce, Retail, and Government.***
 
-- 💬 Ask me about ***AI/ML, Predictive Analytics, LLM applications, Model Development, and real-world AI use cases.***
+- 💬 Ask me about — ***AI/ML, Predictive Analytics, LLM applications, Model Development, and real-world AI use cases.***
 
-- ⚡ Fun fact ***I probably spend more time talking to Python 🐍 than to humans — luckily, it’s one of the friendliest languages for building AI/ML solutions.***
+- ⚡ Fun fact — ***"I probably spend more time talking to Python 🐍 than to humans — luckily, it’s one of the friendliest languages for building AI/ML solutions"***
 
 ----
 
@@ -54,7 +54,7 @@
 - **🏅 Top 10 Runner-Up –** *AI Cart Recovery Agent*, **ReelCode August 2025 Project-A-Thons**  
 - **🥈 Finalist –** *Insurance Customer Value Enhancement*, **Airothon 2025 – Agentic AI Hackathon**
 
-🔎 **View the complete list of Awards/Recognition:** [Full Achievements](https://github.com/deepak7642/Hackathons-Recognization-)
+🔎 **View the complete list of Awards/Recognition —** [Full Achievements](https://github.com/deepak7642/Hackathons-Recognization-)
 
 -----
 
